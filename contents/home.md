@@ -1,12 +1,13 @@
 
-I'm currently pursuing a Master's degree in XHU University at the Department of Computer and Software Engineering, Chengdu, Sichuan, China.
+我目前正在中国四川成都的西华大学计算机与软件工程学院攻读硕士学位。
 
-#### Email  
+#### 邮箱  
 <code>875155277@qq.com</code>  
 
 #### Education  
-**XHU University**, Master of Software Engineering (2022.09 – 2025.06)  
-**XHU University**, Master of Software Engineering (2017.09 – 2021.06)  
+**西华大学**, 软件工程 硕士 计算机与软件工程学院 (2022.09 – 2025.06)  
 
-#### Research Interests  
-Artificial Intelligence, Deep Learning, Reinforcement Learning, Computer Vision, Recommender System.
+**西华大学**, 软件工程 本科 计算机与软件工程学院 (2017.09 – 2021.06)  
+
+#### 研究方向  
+人工智能、深度学习、强化学习、计算机视觉、推荐系统。
